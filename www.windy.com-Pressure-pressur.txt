@@ -1,0 +1,14 @@
+https://www.windy.com/-Pressure-pressure?pressure,20.386,-80.859,3
+https://www.windy.com/-CO-concentration-cosc?cosc,63.841,-121.553,4
+https://www.windy.com/?21.698,-83.496,3
+https://www.windy.com/-Satellite-satellite?satellite,24.767,-92.109,3
+https://www.windy.com/-Satellite-satellite?satellite,43.421,-98.438,4
+https://www.windy.com/-Satellite-satellite?satellite,47.843,16.436,4
+https://www.windy.com/-Satellite-satellite?satellite,-24.727,134.912,4
+
+
+https://www.windy.com/?500h,2023083112,25.879,-98.086,3,i:pressure
+https://www.windy.com/-Temperature-temp?temp,2023083112,25.562,-0.176,3
+https://www.windy.com/-CO-concentration-cosc?cosc,2023082512,31.579,8.262,3
+https://www.windy.com/-Dust-mass-dustsm?dustsm,2023082512,31.279,4.570,3
+https://www.windy.com/-Fire-intensity-fires?fires,2023082100,24.767,26.016,3
